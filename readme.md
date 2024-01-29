@@ -1,5 +1,5 @@
 ## Description
-Ready Trader Go is an algorithmic market making competition hosted by Optiver. 
+I wrote this code for an algorithmic market-making competition. 
 It involves market making an illiquid ETF market, with the help of a deep futures market.
 
 ---
